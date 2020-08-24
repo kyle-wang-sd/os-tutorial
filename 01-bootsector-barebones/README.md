@@ -63,5 +63,5 @@ loop? ;-)
 
 ## Secifically for Ubuntu 20.08
 `emu-system-x86_64 --nographic --curses boot_sect_simple.bin`
-**How to stop the emulator**
+**How to stop the emulator**  
 kill <process_id>
