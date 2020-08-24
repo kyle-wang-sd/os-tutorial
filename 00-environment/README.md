@@ -12,10 +12,13 @@ Don't use the Xcode developer tools `nasm` if you have them installed, they won'
 On some systems qemu is split into multiple binaries. You may want
 to call `qemu-system-x86_64 binfile`
 
-Specifically for Ubuntu
+Specifically for Ubuntu(20.08)
 * Install nasm: 
 ```
 sudo apt update
 sudo apt install nasm
 ```
-* Install 
+* Install qemu
+```
+sudo apt install qemu-system-x86
+```
