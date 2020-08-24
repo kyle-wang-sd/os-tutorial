@@ -62,6 +62,6 @@ nothing else. When was the last time you were so excited to see an infinite
 loop? ;-)
 
 ## Secifically for Ubuntu 20.08
-`emu-system-x86_64 --nographic --curses boot_sect_simple.bin`
+`emu-system-x86_64 --nographic --curses boot_sect_simple.bin`  
 **How to stop the emulator**  
-kill <process_id>
+`kill <process_id>`
